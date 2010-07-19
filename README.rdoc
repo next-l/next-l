@@ -1,7 +1,9 @@
 = Next-L Enju
 
-== Enju Root ==
+This project has been renamed.
+
+== Enju Root
 http://github.com/nabeta/enju_root
 
-== Enju Leaf ==
+== Enju Leaf
 http://github.com/nabeta/enju_leaf
