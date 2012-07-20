@@ -2,11 +2,18 @@
 
 This project has been renamed.
 
-== Enju Root
+== Projects
+* {Next-L Enju Root}[https://github.com/nabeta/enju_root]
 http://github.com/nabeta/enju_root
-
-== Enju Leaf
+* {Next-L Enju Leaf}[https://github.com/nabeta/enju_leaf]
 http://github.com/nabeta/enju_leaf
+* {Next-L Enju Flower}[https://github.com/nabeta/enju_flower]
 
-== Enju Flower
-http://github.com/nabeta/enju_flower
+== Modules
+* {enju_subject}[https://github.com/nabeta/enju_subject] {<img src="https://secure.travis-ci.org/nabeta/enju_subject.png?branch=master" alt="Build Status" />}[http://travis-ci.org/nabeta/enju_subject]
+* {enju_circulation}[https://github.com/nabeta/enju_circulation] {<img src="https://secure.travis-ci.org/nabeta/enju_circulation.png?branch=master" alt="Build Status" />}[http://travis-ci.org/nabeta/enju_circulation]
+* {enju_event}[https://github.com/nabeta/enju_event] {<img src="https://secure.travis-ci.org/nabeta/enju_event.png?branch=master" alt="Build Status" />}[http://travis-ci.org/nabeta/enju_event]
+
+== Authors and contributors
+* {TANABE, Kosuke}[http://mwr.mediacom.keio.ac.jp/~tanabe/]
+* {Project Next-L}[http://www.next-l.jp]
