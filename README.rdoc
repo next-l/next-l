@@ -3,15 +3,13 @@
 This project has been renamed.
 
 == Projects
-* {Next-L Enju Root}[https://github.com/nabeta/enju_root]
-http://github.com/nabeta/enju_root
-* {Next-L Enju Leaf}[https://github.com/nabeta/enju_leaf]
-http://github.com/nabeta/enju_leaf
-* {Next-L Enju Flower}[https://github.com/nabeta/enju_flower]
+* {Next-L Enju Root}[https://github.com/next-l/enju_root]
+* {Next-L Enju Leaf}[https://github.com/next-l/enju_leaf]
+* {Next-L Enju Flower}[https://github.com/next-l/enju_flower]
 
 == Modules
 see {CI}[https://github.com/next-l/next-l/wiki/CI] page.
 
 == Authors and contributors
-* {TANABE, Kosuke}[http://mwr.mediacom.keio.ac.jp/~tanabe/]
+* {TANABE, Kosuke}[https://github.com/nabeta]
 * {Project Next-L}[http://www.next-l.jp]
